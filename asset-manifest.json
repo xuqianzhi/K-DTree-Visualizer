@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/K-DTree-Visualizer/static/css/main.b0132b9b.chunk.css",
-    "main.js": "/K-DTree-Visualizer/static/js/main.0e781245.chunk.js",
-    "main.js.map": "/K-DTree-Visualizer/static/js/main.0e781245.chunk.js.map",
+    "main.js": "/K-DTree-Visualizer/static/js/main.12f1954e.chunk.js",
+    "main.js.map": "/K-DTree-Visualizer/static/js/main.12f1954e.chunk.js.map",
     "runtime-main.js": "/K-DTree-Visualizer/static/js/runtime-main.6c48e08f.js",
     "runtime-main.js.map": "/K-DTree-Visualizer/static/js/runtime-main.6c48e08f.js.map",
     "static/js/2.2f0028de.chunk.js": "/K-DTree-Visualizer/static/js/2.2f0028de.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6c48e08f.js",
     "static/js/2.2f0028de.chunk.js",
     "static/css/main.b0132b9b.chunk.css",
-    "static/js/main.0e781245.chunk.js"
+    "static/js/main.12f1954e.chunk.js"
   ]
 }
