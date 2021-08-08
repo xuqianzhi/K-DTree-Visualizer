@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/K-DTree-Visualizer/static/css/main.b0132b9b.chunk.css",
-    "main.js": "/K-DTree-Visualizer/static/js/main.cfd3ed6d.chunk.js",
-    "main.js.map": "/K-DTree-Visualizer/static/js/main.cfd3ed6d.chunk.js.map",
-    "runtime-main.js": "/K-DTree-Visualizer/static/js/runtime-main.1cb54919.js",
-    "runtime-main.js.map": "/K-DTree-Visualizer/static/js/runtime-main.1cb54919.js.map",
-    "static/js/2.544da1bf.chunk.js": "/K-DTree-Visualizer/static/js/2.544da1bf.chunk.js",
-    "static/js/2.544da1bf.chunk.js.map": "/K-DTree-Visualizer/static/js/2.544da1bf.chunk.js.map",
-    "static/js/3.7a0bdae8.chunk.js": "/K-DTree-Visualizer/static/js/3.7a0bdae8.chunk.js",
-    "static/js/3.7a0bdae8.chunk.js.map": "/K-DTree-Visualizer/static/js/3.7a0bdae8.chunk.js.map",
+    "main.js": "/K-DTree-Visualizer/static/js/main.b1729be3.chunk.js",
+    "main.js.map": "/K-DTree-Visualizer/static/js/main.b1729be3.chunk.js.map",
+    "runtime-main.js": "/K-DTree-Visualizer/static/js/runtime-main.6c48e08f.js",
+    "runtime-main.js.map": "/K-DTree-Visualizer/static/js/runtime-main.6c48e08f.js.map",
+    "static/js/2.2f0028de.chunk.js": "/K-DTree-Visualizer/static/js/2.2f0028de.chunk.js",
+    "static/js/2.2f0028de.chunk.js.map": "/K-DTree-Visualizer/static/js/2.2f0028de.chunk.js.map",
+    "static/js/3.f6ca3f91.chunk.js": "/K-DTree-Visualizer/static/js/3.f6ca3f91.chunk.js",
+    "static/js/3.f6ca3f91.chunk.js.map": "/K-DTree-Visualizer/static/js/3.f6ca3f91.chunk.js.map",
     "index.html": "/K-DTree-Visualizer/index.html",
     "static/css/main.b0132b9b.chunk.css.map": "/K-DTree-Visualizer/static/css/main.b0132b9b.chunk.css.map",
-    "static/js/2.544da1bf.chunk.js.LICENSE.txt": "/K-DTree-Visualizer/static/js/2.544da1bf.chunk.js.LICENSE.txt",
-    "static/media/googlemaps.jpeg": "/K-DTree-Visualizer/static/media/googlemaps.f95ed196.jpeg",
+    "static/js/2.2f0028de.chunk.js.LICENSE.txt": "/K-DTree-Visualizer/static/js/2.2f0028de.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/K-DTree-Visualizer/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cb54919.js",
-    "static/js/2.544da1bf.chunk.js",
+    "static/js/runtime-main.6c48e08f.js",
+    "static/js/2.2f0028de.chunk.js",
     "static/css/main.b0132b9b.chunk.css",
-    "static/js/main.cfd3ed6d.chunk.js"
+    "static/js/main.b1729be3.chunk.js"
   ]
 }
