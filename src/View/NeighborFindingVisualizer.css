@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(30, 30, 30);
+}
+
+.visualizer-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.dot {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    margin-left: -7px;
+    margin-top: -7px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    background-color: crimson;
+    z-index: 2;
+}
+
+.line {
+    position: absolute;
+    z-index: 1;
+}
+
+.bound {
+    background-color: gold; 
+    position: absolute;
+}
+
+.popup-container {
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    bottom: 20px;
+    background-color: rgb(61, 61, 61);
+}

@@ -1,0 +1,25 @@
+.popup-h3-text {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font: bold;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.popup-h6-text {
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#popup-container {
+    border-radius: 20px;
+    background-color: white;
+    width: 1000px;
+    height: 750px;
+    text-align: center;
+    display: inline-block;
+}
